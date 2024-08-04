@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f59ba5fed7624f84480baea5f3f94f1e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _leftLineRenderer: {instanceID: 0}
+  - _rightLineRenderer: {instanceID: 0}
+  - _leftStartingPosition: {instanceID: 0}
+  - _rightStartingPosition: {instanceID: 0}
+  - _centerPosition: {instanceID: 0}
+  - _idlePosition: {instanceID: 0}
+  - _slingShotArea: {instanceID: 0}
+  - _angryBirdPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
