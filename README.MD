@@ -10,7 +10,6 @@ This repository contains a clone of Angry Birds, featuring similar gameplay mech
 
 - Classic Angry Birds gameplay mechanics.
 - Level design with destructible environments.
-- Various types of birds with unique abilities.
 - Physics-based interactions and animations.
 - Basic scoring and UI elements.
 
